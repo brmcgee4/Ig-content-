@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Bookmas Day 2: Hallmark Tropes</title>
+<link rel="stylesheet" href="fonts.css">
+<style>
+  :root {
+    --red: #7B1E2B;
+    --red-deep: #5A1420;
+    --cream: #F4EADB;
+    --cream-soft: #EADBC4;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #222; font-family: 'Inter', sans-serif; }
+  section {
+    width: 1080px; height: 1350px; position: relative; overflow: hidden;
+    padding: 120px; display: flex; flex-direction: column; justify-content: center;
+    page-break-after: always;
+  }
+  .red   { background: var(--red); color: var(--cream); }
+  .cream { background: var(--cream); color: var(--red); }
+
+  /* subtle snow dots */
+  section::before {
+    content: ""; position: absolute; inset: 0; pointer-events: none; opacity: .14;
+    background-image: radial-gradient(currentColor 2.5px, transparent 3px);
+    background-size: 90px 90px; background-position: 20px 30px;
+  }
+
+  .tag {
+    position: absolute; top: 120px; left: 120px;
+    font: 700 30px/1 'Inter', sans-serif; letter-spacing: .14em;
+    padding: 16px 26px; border-radius: 999px;
+  }
+  .red .tag   { background: var(--cream); color: var(--red); }
+  .cream .tag { background: var(--red); color: var(--cream); }
+
+  .handle, .num {
+    position: absolute; bottom: 120px; font: 600 30px/1 'Inter', sans-serif; opacity: .8;
+  }
+  .handle { left: 120px; }
+  .num { right: 120px; }
+
+  h1 {
+    font-family: 'Playfair Display', serif; font-weight: 900;
+    font-size: 132px; line-height: 1.0; letter-spacing: -0.01em;
+  }
+  h2 {
+    font-family: 'Playfair Display', serif; font-weight: 900;
+    font-size: 96px; line-height: 1.02;
+  }
+  .sub { font: 500 44px/1.35 'Inter', sans-serif; margin-top: 40px; }
+  .italic { font-family: 'Playfair Display', serif; font-style: italic; font-weight: 700; }
+
+  .trope-label {
+    font: 700 32px/1 'Inter', sans-serif; letter-spacing: .16em; text-transform: uppercase;
+    opacity: .75; margin-bottom: 28px;
+  }
+  .poster {
+    margin-top: 48px; padding: 40px 44px; border-radius: 28px;
+    background: var(--red); color: var(--cream);
+  }
+  .poster .title {
+    font-family: 'Playfair Display', serif; font-style: italic; font-weight: 700;
+    font-size: 58px; line-height: 1.1; margin-bottom: 22px;
+  }
+  .poster .title::before { content: "🎬 "; font-style: normal; }
+  .poster p { font: 500 40px/1.4 'Inter', sans-serif; }
+  .poster .aside { opacity: .8; font-style: italic; }
+
+  .recap ol { list-style: none; margin-top: 50px; }
+  .recap li {
+    font: 600 50px/1.25 'Inter', sans-serif; padding: 22px 0;
+    border-bottom: 3px solid rgba(244,234,219,.35);
+    display: flex; gap: 28px; align-items: baseline;
+  }
+  .recap li span {
+    font-family: 'Playfair Display', serif; font-weight: 900; font-size: 60px; min-width: 50px;
+  }
+  .recap .q { margin-top: 44px; font-family: 'Playfair Display', serif; font-style: italic; font-weight: 700; font-size: 56px; }
+
+  .big-emoji { font-size: 150px; line-height: 1; margin-bottom: 30px; }
+  .center { text-align: center; align-items: center; }
+</style>
+</head>
+<body>
+
+<!-- 1 COVER -->
+<section class="red">
+  <div class="tag">BOOKMAS · DAY 2/25</div>
+  <h1>Every Hallmark movie is 4 tropes.</h1>
+  <p class="sub italic" style="font-size:56px">I said what I said.</p>
+  <div class="handle">@lifewithbrianaa</div><div class="num">1/8</div>
+</section>
+
+<!-- 2 STAKE -->
+<section class="cream">
+  <div class="tag">BOOKMAS · DAY 2/25</div>
+  <h2>You haven't watched hundreds of Christmas movies.</h2>
+  <p class="sub" style="font-size:56px; font-weight:700">You've watched 4, on repeat.</p>
+  <div class="handle">@lifewithbrianaa</div><div class="num">2/8</div>
+</section>
+
+<!-- 3 -->
+<section class="cream">
+  <div class="tag">BOOKMAS · DAY 2/25</div>
+  <div class="trope-label">Trope 1</div>
+  <h2>Small town vs. city jerk</h2>
+  <div class="poster">
+    <div class="title">“A Mistletoe Merger”</div>
+    <p>A city lawyer comes to shut down the family bakery.</p>
+    <p>Leaves with flour on his suit and a fiancée.</p>
+  </div>
+  <div class="handle">@lifewithbrianaa</div><div class="num">3/8</div>
+</section>
+
+<!-- 4 -->
+<section class="cream">
+  <div class="tag">BOOKMAS · DAY 2/25</div>
+  <div class="trope-label">Trope 2</div>
+  <h2>Forced proximity</h2>
+  <div class="poster">
+    <div class="title">“Snowed In at the Holly Inn”</div>
+    <p>1 blizzard. 1 room left. 1 bed.</p>
+    <p class="aside">The innkeeper is <em>so</em> sorry.</p>
+  </div>
+  <div class="handle">@lifewithbrianaa</div><div class="num">4/8</div>
+</section>
+
+<!-- 5 -->
+<section class="cream">
+  <div class="tag">BOOKMAS · DAY 2/25</div>
+  <div class="trope-label">Trope 3</div>
+  <h2>Fake dating</h2>
+  <div class="poster">
+    <div class="title">“My Fake Fiancé for Christmas”</div>
+    <p>She needs a date for her sister's wedding. He needs his mom to stop asking.</p>
+    <p class="aside">Nobody catches feelings. (Everyone catches feelings.)</p>
+  </div>
+  <div class="handle">@lifewithbrianaa</div><div class="num">5/8</div>
+</section>
+
+<!-- 6 -->
+<section class="cream">
+  <div class="tag">BOOKMAS · DAY 2/25</div>
+  <div class="trope-label">Trope 4</div>
+  <h2>Second chance</h2>
+  <div class="poster">
+    <div class="title">“Home for the Holidays, Again”</div>
+    <p>She left for New York 10 years ago.</p>
+    <p>He stayed to run the tree farm. He never changed his number.</p>
+  </div>
+  <div class="handle">@lifewithbrianaa</div><div class="num">6/8</div>
+</section>
+
+<!-- 7 RECAP -->
+<section class="red recap">
+  <div class="tag">BOOKMAS · DAY 2/25</div>
+  <h2 style="font-size:84px">The Hallmark Cinematic Universe</h2>
+  <ol>
+    <li><span>1</span>Small town vs. city jerk</li>
+    <li><span>2</span>Forced proximity</li>
+    <li><span>3</span>Fake dating</li>
+    <li><span>4</span>Second chance</li>
+  </ol>
+  <p class="q">Which one did I miss?</p>
+  <div class="handle">@lifewithbrianaa</div><div class="num">7/8</div>
+</section>
+
+<!-- 8 CTA -->
+<section class="red center">
+  <div class="tag">BOOKMAS · DAY 2/25</div>
+  <div class="big-emoji">🎄</div>
+  <h2>Tag the friend who's watched all 4 this week</h2>
+  <p class="sub italic" style="font-size:52px">See you tomorrow for Day 3.</p>
+  <div class="handle">@lifewithbrianaa</div><div class="num">8/8</div>
+</section>
+
+</body>
+</html>
