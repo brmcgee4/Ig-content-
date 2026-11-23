@@ -1,9 +1,9 @@
 # Swipe file — @lifewithbrianaa (romance books × beauty × lifestyle)
 
-Collected 2026-11-23 from phone screenshots. 64 reels across 4 accounts:
+Collected 2026-11-23 from phone screenshots. 76 reels across 5 accounts:
 @lifewithbrianaa (68 followers, median 205), @jadesshelves (35.9K, median 5.5K),
-@skyeannereads (26.1K, median 9.3K), @mellovesreading (101K, median 53K).
-Confidence: moderate. 3 of the 4 accounts are large (format only); no peers under 5K yet. Add @nikthrills + small accounts to firm this up.
+@skyeannereads (26.1K, median 9.3K), @mellovesreading (101K, median 53K), @baddieandabook (1.3K, median 1.4K, the closest peer).
+Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were confirmed at small size by @baddieandabook. Add @nikthrills and 1–2 more small accounts.
 
 ## Hand-read patterns (the classifier named only 5 of 64 hooks)
 
@@ -11,17 +11,21 @@ Confidence: moderate. 3 of the 4 accounts are large (format only); no peers unde
    - "phone on dnd. i'm busy dreaming about vampire warriors" (Jade, 7.1x)
    - "Yes I may be insane but at least I'm not part of the literacy crisis" (Briana, 6.8x)
    - "My comments anytime I talk about annotating" (Mel, 1.4x)
+   - "WFH Book girlies during the Microsoft Outlook outage" (Baddie, **52x**, 74K views on a 1.3K account; humor plus a news moment)
    - Shape: a self-aware joke about being a reader, plus a simple visual (book stack, hands, a face reaction). No talking needed.
 2. **Narrow, useful, saveable lists.** Use a specific constraint or a number, not a generic recommendation.
    - "standalone romantasy" (Skye, 41x) · "annotation supplies" (Mel, 4.9x) · "3 TV shows you'll devour in one sitting" (Jade, 2.9x) · "3 must-watch rom-coms on Peacock" (Jade, 2.5x) · "reading order guide" (Skye, 3.1x)
    - Generic recs flopped: "one bed trope book recs" (Jade 0.49x), "books to get you out of a reading slump" (Skye 0.7x, Briana 0.4x).
 3. **Ride a moment (adaptations and big releases).** Pop-culture tie-ins outperform plain book content.
    - Mel's Sunrise on the Reaping run (10 of 18 reels) · Jade's Black Dagger and Peacock rom-coms.
-4. **Debate or opinion prompts get comments.** "are these popular booktok books worth it?" (Skye, 3.3x).
+   - The same rule works with news: a joke on the day everyone is talking about something (an outage, an announcement) beat everything else at small size.
+4. **Before/after series.** Baddie's home-library build Reels (empty shelves, then full) were her next 5 best, at 1.2–2.7x. A recurring project gives people a reason to follow along.
+5. **Debate or opinion prompts get comments.** "are these popular booktok books worth it?" (Skye, 3.3x).
 
-## What sinks, on all 4 accounts
+## What sinks, on all 5 accounts
 - Personal roundups: "what I'm reading this week" (Jade 0.46x), monthly favourites and wrap-ups (Skye 0.6–0.8x)
 - Promos, PR and deals: BOTM deal (Mel 0.16x), "fable is my new favorite app" (Jade 0.55x), "book mail & PR" (Jade 0.71x)
+- Single-book reviews: "Book Review: Passenger Princess" (Baddie, 0.23x)
 - One-word labels as the hook: "hair", "unboxing", "skincare routine" (Briana 0.2–0.7x)
 - Beauty head-to-heads underperformed for Jade ("Kosas vs. Tower 28", 0.76x). Beauty works better attached to books than on its own.
 
@@ -32,6 +36,11 @@ Confidence: moderate. 3 of the 4 accounts are large (format only); no peers unde
 - "Are these popular BookTok romances actually worth it?" (pattern 4)
 
 ---
+
+## 52.3x  unclassified  (@baddieandabook)
+- views: 74,400  baseline: 1,422
+- hook score: 42.2  words: 8
+- hook: "WFH Book girlies during the Microsoft Outlook outage"
 
 ## 41.4x  unclassified  (@skyeannereads)
 - views: 383,000  baseline: 9,260
@@ -78,6 +87,11 @@ Confidence: moderate. 3 of the 4 accounts are large (format only); no peers unde
 - hook score: 43.8  words: 11
 - hook: "Read SOTR with me at a coffee shop. No trending audio"
 
+## 2.7x  unclassified  (@baddieandabook)
+- views: 3,873  baseline: 1,422
+- hook score: 40.8  words: 8
+- hook: "(home library: full shelves wide, no text visible)"
+
 ## 2.5x  unclassified  (@jadesshelves)
 - views: 13,500  baseline: 5,458
 - hook score: 39.6  words: 3
@@ -102,6 +116,16 @@ Confidence: moderate. 3 of the 4 accounts are large (format only); no peers unde
 - views: 11,100  baseline: 5,458
 - hook score: 45.2  words: 4
 - hook: "two types of friends"
+
+## 1.9x  unclassified  (@baddieandabook)
+- views: 2,741  baseline: 1,422
+- hook score: 40.8  words: 7
+- hook: "(home library: full shelves, no text visible)"
+
+## 1.6x  unclassified  (@baddieandabook)
+- views: 2,275  baseline: 1,422
+- hook score: 40.8  words: 7
+- hook: "(home library: reading chair, no text visible)"
 
 ## 1.6x  unclassified  (@mellovesreading)
 - views: 83,000  baseline: 53,100
@@ -138,6 +162,11 @@ Confidence: moderate. 3 of the 4 accounts are large (format only); no peers unde
 - hook score: 27.6  words: 26
 - hook: "People ask what I do for fun. Girl I am 30. Books, matcha, sending reels to the same 3 people and cancelling plans is my fun"
 
+## 1.3x  unclassified  (@baddieandabook)
+- views: 1,869  baseline: 1,422
+- hook score: 40.8  words: 8
+- hook: "(home library: empty shelves build, no text visible)"
+
 ## 1.3x  unclassified  (@mellovesreading)
 - views: 69,000  baseline: 53,100
 - hook score: 39.2  words: 8
@@ -157,6 +186,11 @@ Confidence: moderate. 3 of the 4 accounts are large (format only); no peers unde
 - views: 260  baseline: 205
 - hook score: 34.8  words: 7
 - hook: "guys come with me to Apple Fest"
+
+## 1.2x  unclassified  (@baddieandabook)
+- views: 1,753  baseline: 1,422
+- hook score: 40.8  words: 7
+- hook: "(home library: empty room, no text visible)"
 
 ## 1.2x  unclassified  (@jadesshelves)
 - views: 6,476  baseline: 5,458
@@ -248,6 +282,11 @@ Confidence: moderate. 3 of the 4 accounts are large (format only); no peers unde
 - hook score: 42.2  words: 6
 - hook: "Happy Sunrise on the Reaping week!!!"
 
+## 0.8x  unclassified  (@baddieandabook)
+- views: 1,091  baseline: 1,422
+- hook score: 40.8  words: 8
+- hook: "(holding book in living room, no text visible)"
+
 ## 0.8x  Head To Head  (@jadesshelves)
 - views: 4,164  baseline: 5,458
 - hook score: 60.2  words: 4
@@ -308,6 +347,11 @@ Confidence: moderate. 3 of the 4 accounts are large (format only); no peers unde
 - hook score: 22.8  words: 2
 - hook: "november favourites"
 
+## 0.6x  unclassified  (@baddieandabook)
+- views: 792  baseline: 1,422
+- hook score: 44.4  words: 5
+- hook: "(book tote, no text visible)"
+
 ## 0.6x  unclassified  (@jadesshelves)
 - views: 2,984  baseline: 5,458
 - hook score: 34.2  words: 7
@@ -317,6 +361,11 @@ Confidence: moderate. 3 of the 4 accounts are large (format only); no peers unde
 - views: 111  baseline: 205
 - hook score: 31.8  words: 4
 - hook: "day in my life"
+
+## 0.5x  unclassified  (@baddieandabook)
+- views: 745  baseline: 1,422
+- hook score: 44.4  words: 6
+- hook: "(talking on bed, no text visible)"
 
 ## 0.5x  unclassified  (@jadesshelves)
 - views: 2,678  baseline: 5,458
@@ -333,10 +382,25 @@ Confidence: moderate. 3 of the 4 accounts are large (format only); no peers unde
 - hook score: 55.4  words: 10
 - hook: "5 things to get you out of a reading slump"
 
+## 0.4x  unclassified  (@baddieandabook)
+- views: 570  baseline: 1,422
+- hook score: 44.4  words: 6
+- hook: "(author's book covers, no text visible)"
+
 ## 0.4x  unclassified  (@lifewithbrianaa)
 - views: 81  baseline: 205
 - hook score: 20.4  words: 1
 - hook: "unboxing"
+
+## 0.3x  unclassified  (@baddieandabook)
+- views: 498  baseline: 1,422
+- hook score: 40.8  words: 8
+- hook: "(talking to camera with book, no text visible)"
+
+## 0.2x  unclassified  (@baddieandabook)
+- views: 326  baseline: 1,422
+- hook score: 47.0  words: 8
+- hook: "Book Review. Title: Passenger Princess. Rating 5 stars"
 
 ## 0.2x  unclassified  (@lifewithbrianaa)
 - views: 48  baseline: 205
