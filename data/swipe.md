@@ -5,9 +5,9 @@ Collected 2026-11-23 from phone screenshots. 76 reels across 5 accounts:
 @skyeannereads (26.1K, median 9.3K), @mellovesreading (101K, median 53K), @baddieandabook (1.3K, median 1.4K, the closest peer).
 Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were confirmed at small size by @baddieandabook. Add @nikthrills and 1–2 more small accounts.
 
-## Hand-read patterns (the classifier named only 5 of 64 hooks)
+## Hand-read patterns (the classifier named only a handful of hooks)
 
-1. **Relatable reader humor, one line on screen.** Strongest repeat. Seen on 3 of 4 accounts.
+1. **Relatable reader humor, one line on screen.** Strongest repeat. Seen on 4 of 5 accounts.
    - "phone on dnd. i'm busy dreaming about vampire warriors" (Jade, 7.1x)
    - "Yes I may be insane but at least I'm not part of the literacy crisis" (Briana, 6.8x)
    - "My comments anytime I talk about annotating" (Mel, 1.4x)
@@ -33,7 +33,7 @@ Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were conf
 - 66 OK: "I said one more chapter at 11pm. It is 2am and he still hasn't confessed." (pattern 1)
 - "Standalone romances you can finish in one weekend" (pattern 2)
 - "My romance annotation kit" / "What I use to annotate spicy books" (pattern 2, the beauty-style flat lay)
-- "Are these popular BookTok romances actually worth it?" (pattern 4)
+- "Are these popular BookTok romances actually worth it?" (pattern 5)
 
 ---
 
