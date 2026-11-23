@@ -4,6 +4,8 @@
 **Cadence:** 2 posts a week, Tuesday + Friday, plus one **breaking-moment slot** you can use any day
 **Built from:** `data/swipe.md`: 76 Reels across 5 accounts
 
+> **Running Bookmas instead?** See `bookmas-2026.md` for the daily Dec 1–25 schedule. The 8 posts below are its bigger posts.
+
 ## The mix
 
 | | Books-led | Beauty-led | Lifestyle-led |
