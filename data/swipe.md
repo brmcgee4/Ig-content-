@@ -1,9 +1,9 @@
 # Swipe file — @lifewithbrianaa (romance books × beauty × lifestyle)
 
-Collected 2026-11-23 from phone screenshots. 76 reels across 5 accounts:
+Collected 2026-11-23 from phone screenshots. 88 reels across 6 accounts:
 @lifewithbrianaa (68 followers, median 205), @jadesshelves (35.9K, median 5.5K),
-@skyeannereads (26.1K, median 9.3K), @mellovesreading (101K, median 53K), @baddieandabook (1.3K, median 1.4K, the closest peer).
-Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were confirmed at small size by @baddieandabook. Add @nikthrills and 1–2 more small accounts.
+@skyeannereads (26.1K, median 9.3K), @mellovesreading (101K, median 53K), @baddieandabook (1.3K, median 1.4K, the closest peer), @heaths.bookclub (206K, median 98K; format only, low weight).
+Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were confirmed at small size by @baddieandabook. The skill's 6-account minimum is reached. @heaths.bookclub had no reel above 3x (a very steady large account), so it adds weak signals only.
 
 ## Hand-read patterns (the classifier named only a handful of hooks)
 
@@ -19,14 +19,16 @@ Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were conf
 3. **Ride a moment (adaptations and big releases).** Pop-culture tie-ins outperform plain book content.
    - Mel's Sunrise on the Reaping run (10 of 18 reels) · Jade's Black Dagger and Peacock rom-coms.
    - The same rule works with news: a joke on the day everyone is talking about something (an outage, an announcement) beat everything else at small size.
-4. **Before/after series.** Baddie's home-library build Reels (empty shelves, then full) were her next 5 best, at 1.2–2.7x. A recurring project gives people a reason to follow along.
+4. **Before/after series.** Heath too: the finished barrister bookshelf (1.5x) beat the 'filling it' reel (0.97x), so the reveal beats the process.
+    Baddie's home-library build Reels (empty shelves, then full) were her next 5 best, at 1.2–2.7x. A recurring project gives people a reason to follow along.
 5. **Debate or opinion prompts get comments.** "are these popular booktok books worth it?" (Skye, 3.3x).
 
-## What sinks, on all 5 accounts
+## What sinks, across the accounts
 - Personal roundups: "what I'm reading this week" (Jade 0.46x), monthly favourites and wrap-ups (Skye 0.6–0.8x)
 - Promos, PR and deals: BOTM deal (Mel 0.16x), "fable is my new favorite app" (Jade 0.55x), "book mail & PR" (Jade 0.71x)
 - Single-book reviews: "Book Review: Passenger Princess" (Baddie, 0.23x)
 - One-word labels as the hook: "hair", "unboxing", "skincare routine" (Briana 0.2–0.7x)
+- Beauty tutorials: "how I style my bangs" (Heath, 0.21x, her lowest), while "I got a hair cut today" did 1.8x. A personal beauty moment beats a how-to.
 - Beauty head-to-heads underperformed for Jade ("Kosas vs. Tower 28", 0.76x). Beauty works better attached to books than on its own.
 
 ## Hooks ready to shoot (scored with hookscore.py)
@@ -122,6 +124,26 @@ Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were conf
 - hook score: 40.8  words: 7
 - hook: "(home library: full shelves, no text visible)"
 
+## 1.9x  unclassified  (@heaths.bookclub)
+- views: 182,000  baseline: 98,150
+- hook score: 37.2  words: 10
+- hook: "(illustration of her reading on a broom, no text visible)"
+
+## 1.8x  unclassified  (@heaths.bookclub)
+- views: 174,000  baseline: 98,150
+- hook score: 45.0  words: 6
+- hook: "I got a hair cut today"
+
+## 1.7x  unclassified  (@heaths.bookclub)
+- views: 165,000  baseline: 98,150
+- hook score: 42.2  words: 6
+- hook: "Seeing Mckenna Grace at Raising Cane's"
+
+## 1.6x  unclassified  (@heaths.bookclub)
+- views: 159,000  baseline: 98,150
+- hook score: 55.4  words: 11
+- hook: "(Wait For It book on a leopard blanket, no text visible)"
+
 ## 1.6x  unclassified  (@baddieandabook)
 - views: 2,275  baseline: 1,422
 - hook score: 40.8  words: 7
@@ -136,6 +158,11 @@ Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were conf
 - views: 306  baseline: 205
 - hook score: 31.8  words: 4
 - hook: "my kindle reading list"
+
+## 1.5x  unclassified  (@heaths.bookclub)
+- views: 145,000  baseline: 98,150
+- hook score: 44.4  words: 6
+- hook: "(finished barrister bookshelf, no text visible)"
 
 ## 1.4x  unclassified  (@jadesshelves)
 - views: 7,896  baseline: 5,458
@@ -222,6 +249,16 @@ Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were conf
 - hook score: 50.7  words: 14
 - hook: "Update!! It's been 2 days and I'm doing okay!! Pain is definitely getting better"
 
+## 1.0x  unclassified  (@heaths.bookclub)
+- views: 97,800  baseline: 98,150
+- hook score: 30.0  words: 10
+- hook: "watching this scene at the movie theatre was life changing"
+
+## 1.0x  unclassified  (@heaths.bookclub)
+- views: 98,500  baseline: 98,150
+- hook score: 40.8  words: 7
+- hook: "(lit bookshelf at night, no text visible)"
+
 ## 1.0x  unclassified  (@lifewithbrianaa)
 - views: 205  baseline: 205
 - hook score: 22.8  words: 2
@@ -236,6 +273,11 @@ Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were conf
 - views: 52,000  baseline: 53,100
 - hook score: 20.4  words: 1
 - hook: "LIFE"
+
+## 1.0x  unclassified  (@heaths.bookclub)
+- views: 95,400  baseline: 98,150
+- hook score: 34.2  words: 5
+- hook: "filling my new barrister bookshelf"
 
 ## 0.9x  unclassified  (@lifewithbrianaa)
 - views: 195  baseline: 205
@@ -276,6 +318,16 @@ Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were conf
 - views: 166  baseline: 205
 - hook score: 45.0  words: 8
 - hook: "come with me to get my first tattoo"
+
+## 0.8x  unclassified  (@heaths.bookclub)
+- views: 77,600  baseline: 98,150
+- hook score: 30.1  words: 14
+- hook: "rereading another one of my favs. slow burn, boss x employee, grumpy x sunshine"
+
+## 0.8x  unclassified  (@heaths.bookclub)
+- views: 77,100  baseline: 98,150
+- hook score: 56.0  words: 8
+- hook: "(Christmas tree by the bookshelves, no text visible)"
 
 ## 0.8x  unclassified  (@mellovesreading)
 - views: 41,900  baseline: 53,100
@@ -367,6 +419,11 @@ Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were conf
 - hook score: 44.4  words: 6
 - hook: "(talking on bed, no text visible)"
 
+## 0.5x  unclassified  (@heaths.bookclub)
+- views: 50,100  baseline: 98,150
+- hook score: 13.2  words: 2
+- hook: "Just watched"
+
 ## 0.5x  unclassified  (@jadesshelves)
 - views: 2,678  baseline: 5,458
 - hook score: 30.0  words: 5
@@ -406,6 +463,11 @@ Confidence: moderate, now with one near-peer account. Patterns 1 and 3 were conf
 - views: 48  baseline: 205
 - hook score: 22.8  words: 2
 - hook: "skincare routine"
+
+## 0.2x  unclassified  (@heaths.bookclub)
+- views: 20,800  baseline: 98,150
+- hook score: 34.2  words: 5
+- hook: "how I style my bangs"
 
 ## 0.2x  unclassified  (@mellovesreading)
 - views: 8,532  baseline: 53,100
