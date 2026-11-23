@@ -6,7 +6,7 @@ Ideas from @bookinfluencerscom's "Bookish content ideas" list (50 ideas), checke
 
 | From the list | Pattern | Your version | Score |
 |---|---|---|---|
-| 10 books to read before the end of the year | Narrow list + deadline (moment) | "5 romances under 300 pages you can finish before New Year's." | **84 STRONG** |
+| 10 books to read before the end of the year | Narrow list + deadline (moment) | "5 romances under 300 pages you can finish before New Year's." **On the calendar for Dec 11.** | **84 STRONG** |
 | Favorite short reads | Narrow list | Same as above. Short reads are the constraint. | — |
 | Spend an afternoon / read with me | Read-with-me, real sound (Mel 2.8x) | "Read with me at a Chicago cafe for 1 hour. No music." | 60 |
 | 1-star reviews of my favorite books | Humor + debate | "Reading the 1-star reviews of my 5 favorite romance books." | 55 |
@@ -14,7 +14,7 @@ Ideas from @bookinfluencerscom's "Bookish content ideas" list (50 ideas), checke
 | Influence or deinfluence my TBR | Debate / comments | "Influence or deinfluence my TBR: you have 5 books to decide." | 48 |
 | Fav duologies | Narrow list | "Romance duologies, because 2 books is the perfect commitment." | 46 |
 | What my best friend reads vs what I read | Relatable humor | "What my best friend reads vs what I read. We are not the same." | 45* |
-| Popular books I didn't like and why | Debate (Skye 3.3x) | Already saved for January as "worth the hype?" | 60 |
+| Popular books I didn't like and why | Debate (Skye 3.3x) | Saved for January as "worth the hype?" | 60 |
 | How I annotate / bookish goodies / favorite bookmarks | Saveable kit (Mel 4.9x) | Already saved for January as the annotation kit | 57 |
 | Decorated bookshelf / declutter my shelves / bookshelf tour | Before/after series (Baddie) | Folded into the nook makeover series | 75 |
 | Fav spot to read / coffee + book | Narrow local list | Already on the calendar for Dec 18 (Chicago cafes) | 73 |

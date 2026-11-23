@@ -51,11 +51,12 @@ The hook scores come from `hookscore.py`. It's good at catching weak hooks but c
 - **Caption:** `[Book title] but make it a makeup look 💄 Drop a cover for me to do next 👇`
 - **Ask:** Suggest a cover. The suggestions become future posts, so this can run as a series.
 
-### Fri Dec 11 · Carousel · BOOKS · narrow, saveable list
-**Cover, scored 79 STRONG:** "4 standalone romances you can finish in one weekend. No series, no cliffhangers."
-- **Slides 2–5:** One book per slide, photographed on your vanity or bed, with one line each in the form "read this if you want ___". Pick from books you've actually read. Emily Henry's *Beach Read*, *Book Lovers* and *Happy Place* are all standalones if you need ideas.
-- **Slide 6:** "Save this for your next free weekend"
-- **Caption:** `For when you want the happily ever after by Sunday night 📚 Which one are you starting with?`
+### Fri Dec 11 · Carousel · BOOKS · narrow list + deadline
+**Cover, scored 84 STRONG:** "5 romances under 300 pages you can finish before New Year's."
+- **Slides 2–6:** One book per slide, photographed on your vanity or bed. Big text: the title, the page count, and one line in the form "read this if you want ___". Pick books you've actually read, and check each page count. Editions differ, so use the one on your copy.
+- **Slide 7:** "Save this and still hit your reading goal 🎉"
+- **Why this one:** It's the highest-scoring hook so far, and the deadline only works this month. It's the same narrow-list shape that did 41x for Skye, plus a reason to read now.
+- **Caption:** `Still have time to hit your reading goal, and none of these are over 300 pages 📚⏳ Which one are you grabbing first?`
 - **Ask:** Save
 
 ---
@@ -113,6 +114,7 @@ When something everyone is talking about happens, post within hours:
 - **Current read** with a "rate it" slider.
 
 ## Saved for January
+- "4 standalone romances you can finish in one weekend. No series, no cliffhangers." (scored 79, moved from Dec 11)
 - "Are these 5 BookTok romances actually worth the hype?" (debate, scored 60)
 - "Everything I use to annotate spicy romance books, all under $30" (scored 57). Use the real total.
 - Book-cover makeup Part 2, from the covers people suggest on Dec 8
